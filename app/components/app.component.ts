@@ -2,7 +2,7 @@ import {Component} from 'angular2/core';
 
 @Component({
     selector: 'app',
-    template:`Work in progress`
+    template:`Hello World! :D`
 })
 export class AppComponent {
 
